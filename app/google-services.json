@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115685630272",
+    "project_id": "vasquez-dam",
+    "storage_bucket": "vasquez-dam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115685630272:android:42ccdd6b863a2a21a71aa5",
+        "android_client_info": {
+          "package_name": "com.example.fcmapppracticando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115685630272-i004aikr2gte8t6ajdc5hbnor96paevu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4g74dVd08mwR4hbPxkWRZyvcORf-lLlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115685630272-i004aikr2gte8t6ajdc5hbnor96paevu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
